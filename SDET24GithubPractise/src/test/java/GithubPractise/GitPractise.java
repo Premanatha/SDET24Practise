@@ -8,6 +8,10 @@ public class GitPractise {
 	{
 		System.out.println("Hi i am the user and it is my first commit");
 		System.out.println("heiieiieiei");
+		
+		
+		
+		System.out.println("kjcfg.,vcgv");
 	}
 
 }
