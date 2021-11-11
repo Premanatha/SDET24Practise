@@ -7,6 +7,7 @@ public class GitPractise {
 	public void Prctise()
 	{
 		System.out.println("Hi i am the user and it is my first commit");
+		System.out.println("heiieiieiei");
 	}
 
 }
