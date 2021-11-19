@@ -4,6 +4,7 @@
   <artifactId>SDET24GithubPractise</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
+    <!----- code changes to the master branch--->
  <dependency>
     <groupId>org.testng</groupId>
     <artifactId>testng</artifactId>
